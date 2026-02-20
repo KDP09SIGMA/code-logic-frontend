@@ -1,0 +1,24 @@
+{
+  "teams": [
+    {
+      "id": "blue-lions",
+      "name": "Blue Lions",
+      "formation": "4-3-3",
+      "players": [
+        { "name": "A. Torres", "position": "ST", "pace": 86, "shooting": 84, "passing": 75, "defending": 40, "stamina": 82 },
+        { "name": "M. Silva", "position": "CM", "pace": 74, "shooting": 72, "passing": 84, "defending": 70, "stamina": 88 },
+        { "name": "D. Kane", "position": "CB", "pace": 64, "shooting": 45, "passing": 68, "defending": 85, "stamina": 80 }
+      ]
+    },
+    {
+      "id": "red-hawks",
+      "name": "Red Hawks",
+      "formation": "4-2-3-1",
+      "players": [
+        { "name": "J. Cole", "position": "CAM", "pace": 81, "shooting": 79, "passing": 86, "defending": 52, "stamina": 84 },
+        { "name": "R. Patel", "position": "RB", "pace": 83, "shooting": 50, "passing": 74, "defending": 80, "stamina": 90 },
+        { "name": "L. Novak", "position": "GK", "pace": 52, "shooting": 18, "passing": 65, "defending": 20, "stamina": 70 }
+      ]
+    }
+  ]
+}
